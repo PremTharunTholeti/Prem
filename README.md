@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tholeti Prem Tharun</h1>
-<h3 align="center">Aspiring Data Analyst | Python & SQL Enthusiast | ETL Tester | Dashboard Developer</h3>
+<h3 align="center">Aspiring Data Analyst | Python & SQL Enthusiast | Dashboard Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tholeti-prem-tharun-487438282" target="_blank">
